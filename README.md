@@ -7,6 +7,6 @@
   * __Hello world__
    ![alt text](imgs/hw.png)
   * __Nucleotide Count__
-  ![alt text](imgs/hw.png)
+  ![alt text](imgs/nc.png)
   * __Secret Handshake__
-  ![alt text](imgs/hw.png)
+  ![alt text](imgs/sh.png)
