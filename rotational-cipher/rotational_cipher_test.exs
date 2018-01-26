@@ -3,7 +3,7 @@ if !System.get_env("EXERCISM_TEST_EXAMPLES") do
 end
 
 ExUnit.start
-ExUnit.configure exclude: :pending, trace: true
+#ExUnit.configure exclude: :pending, trace: true
 
 defmodule RotationalCipherTest do
   use ExUnit.Case
@@ -50,7 +50,7 @@ defmodule RotationalCipherTest do
     assert RotationalCipher.rotate(plaintext, shift) == "TRL"
   end
 
-  @tag :pending
+  #@tag :pending
   test "rotate spaces" do
     plaintext = "O M G"
     shift = 5
