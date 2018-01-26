@@ -15,3 +15,8 @@
   * __Secret Handshake__:
   
   ![alt text](imgs/sh.png)
+  
+  * __Rotational Cipher__:
+  
+  ![alt text](imgs/rc.png)
+  
