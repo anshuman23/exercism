@@ -20,3 +20,7 @@
   
   ![alt text](imgs/rc.png)
   
+  * __Protein Translation__:
+  
+  ![alt text](imgs/pt.png)
+  
